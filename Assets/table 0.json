@@ -1,0 +1,17 @@
+{
+    "tableName":  "table0",
+    "entries": [
+        {
+            "name": "User-1",
+            "score": 59100
+        },
+        {
+            "name": "User-2",
+            "score": 54500
+        },
+        {
+            "name": "User-3",
+            "score": 51300
+        }
+    ]
+}

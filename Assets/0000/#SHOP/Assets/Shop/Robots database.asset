@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9fc1373e993fa144a51675664fe03e6, type: 3}
+  m_Name: Robots database
+  m_EditorClassIdentifier: 
+  robots:
+  - sprite: {fileID: 21300000, guid: 50e7fd256a6095745944106af62921dd, type: 3}
+    costAmount: 0
+    isOpened: 1
+    prefab: {fileID: 84185927187632253, guid: 9714430260c9324419117a53e47c1611, type: 3}
+  - sprite: {fileID: 21300000, guid: 63dd67849737c1c4580e151f82b96452, type: 3}
+    costAmount: 0
+    isOpened: 1
+    prefab: {fileID: 4207399374438943145, guid: 67261d4c7b5b0b04cb6572ac2a9f1cc0,
+      type: 3}
+  - sprite: {fileID: 21300000, guid: b1e0f11ac60b95c44a2b4ab31f2dabe5, type: 3}
+    costAmount: 0
+    isOpened: 1
+    prefab: {fileID: 657546454268673677, guid: a4cdaebffe1f7344dbee9005b1036c2d, type: 3}
+  - sprite: {fileID: 21300000, guid: 3f02663614d8cf84c97fe0471127fc31, type: 3}
+    costAmount: 0
+    isOpened: 1
+    prefab: {fileID: 8451500124930507577, guid: 6844c95cad909264bbecffff4cbebdbe,
+      type: 3}
+  - sprite: {fileID: 21300000, guid: 3f02663614d8cf84c97fe0471127fc31, type: 3}
+    costAmount: 0
+    isOpened: 1
+    prefab: {fileID: 8451500124930507577, guid: 6844c95cad909264bbecffff4cbebdbe,
+      type: 3}

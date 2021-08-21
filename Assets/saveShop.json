@@ -1,0 +1,11 @@
+{
+    "moneyAmount": 6,
+    "selectedIndex": 0,
+    "opened": [
+        true,
+        true,
+        true,
+        true,
+        true
+    ]
+}
