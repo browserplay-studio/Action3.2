@@ -463,12 +463,12 @@ PrefabInstance:
     - target: {fileID: 3720448751238786873, guid: 3341b6e80b38d004db4b77b01ae16ce7,
         type: 3}
       propertyPath: ColorModule.enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3720448751238786873, guid: 3341b6e80b38d004db4b77b01ae16ce7,
         type: 3}
       propertyPath: ForceModule.enabled
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3720448751238786873, guid: 3341b6e80b38d004db4b77b01ae16ce7,
         type: 3}
@@ -499,6 +499,11 @@ PrefabInstance:
         type: 3}
       propertyPath: ShapeModule.arc.mode
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3720448751238786873, guid: 3341b6e80b38d004db4b77b01ae16ce7,
+        type: 3}
+      propertyPath: EmissionModule.enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3720448751238786873, guid: 3341b6e80b38d004db4b77b01ae16ce7,
         type: 3}
@@ -668,7 +673,7 @@ PrefabInstance:
     - target: {fileID: 3720448751238786873, guid: 3341b6e80b38d004db4b77b01ae16ce7,
         type: 3}
       propertyPath: CollisionModule.maxCollisionShapes
-      value: 256
+      value: 200
       objectReference: {fileID: 0}
     - target: {fileID: 3720448751238786873, guid: 3341b6e80b38d004db4b77b01ae16ce7,
         type: 3}

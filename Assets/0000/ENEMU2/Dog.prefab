@@ -290,22 +290,22 @@ PrefabInstance:
     - target: {fileID: 4233117228732259967, guid: 17c979855f8216342b67b8a9a74f628c,
         type: 3}
       propertyPath: m_Speed
-      value: 22
+      value: 23
       objectReference: {fileID: 0}
     - target: {fileID: 4233117228732259967, guid: 17c979855f8216342b67b8a9a74f628c,
         type: 3}
       propertyPath: m_Acceleration
-      value: 45
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 4233117228732259967, guid: 17c979855f8216342b67b8a9a74f628c,
         type: 3}
       propertyPath: m_AngularSpeed
-      value: 45
+      value: 42
       objectReference: {fileID: 0}
     - target: {fileID: 4233117228732259967, guid: 17c979855f8216342b67b8a9a74f628c,
         type: 3}
       propertyPath: m_StoppingDistance
-      value: 10
+      value: 8.5
       objectReference: {fileID: 0}
     - target: {fileID: 4703063981082093386, guid: 17c979855f8216342b67b8a9a74f628c,
         type: 3}
@@ -340,7 +340,7 @@ PrefabInstance:
     - target: {fileID: 5156084486666716755, guid: 17c979855f8216342b67b8a9a74f628c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 5156084486666716755, guid: 17c979855f8216342b67b8a9a74f628c,
         type: 3}

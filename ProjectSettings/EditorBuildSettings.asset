@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/0000/SCENE2/INTRO.unity
-    guid: ce36a58d440112a4f9f2a276297957cf
+    path: Assets/0000/SCENES3/INRO1.unity
+    guid: ac77520d5f95cba4896b5f501712e737
   - enabled: 1
-    path: Assets/0000/SCENE2/LevelMenu.unity
+    path: Assets/0000/SCENES3/LevelMenu.unity
     guid: ca05b335349b74fc5be3231d6e10646f
   - enabled: 1
     path: Assets/0000/SCENES3/1c.unity
@@ -24,11 +24,11 @@ EditorBuildSettings:
     path: Assets/0000/SCENES3/4c.unity
     guid: 6c2eef5e3c389fe4dac436e394fac021
   - enabled: 1
-    path: Assets/0000/SCENE2/5b.unity
-    guid: 7955389cd6667f54294595255075f523
+    path: Assets/0000/SCENES3/5c.unity
+    guid: 93906beff679aa84ea2c5882a986c0f0
   - enabled: 1
-    path: Assets/0000/SCENE2/6b.unity
-    guid: c12fea0f43bcd9d4cac7d41e8be39e33
+    path: Assets/0000/SCENES3/6c.unity
+    guid: db62db7e04c17c84fb77610a1b77df8b
   - enabled: 1
     path: Assets/0000/SCENE2/KORABL.unity
     guid: 5781d264164f3b64b9f9dcd526f33b08

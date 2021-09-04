@@ -48,7 +48,7 @@ MonoBehaviour:
     entries:
     - target: {fileID: 976044663910654773}
       action: 0
-      delay: 1
+      delay: 1.5
 --- !u!111 &4407259166865484107
 Animation:
   m_ObjectHideFlags: 0

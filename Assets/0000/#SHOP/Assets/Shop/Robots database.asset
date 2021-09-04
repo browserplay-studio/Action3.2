@@ -14,25 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   robots:
   - sprite: {fileID: 21300000, guid: 50e7fd256a6095745944106af62921dd, type: 3}
-    costAmount: 0
-    isOpened: 1
+    costAmount: 1
+    isOpened: 0
     prefab: {fileID: 84185927187632253, guid: 9714430260c9324419117a53e47c1611, type: 3}
   - sprite: {fileID: 21300000, guid: 63dd67849737c1c4580e151f82b96452, type: 3}
     costAmount: 0
     isOpened: 1
-    prefab: {fileID: 4207399374438943145, guid: 67261d4c7b5b0b04cb6572ac2a9f1cc0,
-      type: 3}
+    prefab: {fileID: 880788229024089457, guid: 4a29ad87ad8f07c4b94adecfa0fcd2ee, type: 3}
   - sprite: {fileID: 21300000, guid: b1e0f11ac60b95c44a2b4ab31f2dabe5, type: 3}
     costAmount: 0
     isOpened: 1
-    prefab: {fileID: 657546454268673677, guid: a4cdaebffe1f7344dbee9005b1036c2d, type: 3}
+    prefab: {fileID: 535019016813044036, guid: e2954d9d1c20dc54aac1ce4b2e69ef95, type: 3}
   - sprite: {fileID: 21300000, guid: 3f02663614d8cf84c97fe0471127fc31, type: 3}
     costAmount: 0
     isOpened: 1
-    prefab: {fileID: 8451500124930507577, guid: 6844c95cad909264bbecffff4cbebdbe,
-      type: 3}
+    prefab: {fileID: 278407480427235046, guid: e61194a37deda7d4caff893846b8621b, type: 3}
   - sprite: {fileID: 21300000, guid: 3f02663614d8cf84c97fe0471127fc31, type: 3}
     costAmount: 0
     isOpened: 1
-    prefab: {fileID: 8451500124930507577, guid: 6844c95cad909264bbecffff4cbebdbe,
+    prefab: {fileID: 3153490879843927145, guid: 00067a8010e622e428120b3c84dc825b,
       type: 3}

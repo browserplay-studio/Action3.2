@@ -258,11 +258,11 @@ MonoBehaviour:
   hittableLayers:
     serializedVersion: 2
     m_Bits: 3383
-  speed: 340
+  speed: 350
   gravityDownAcceleration: 0
   trajectoryCorrectionDistance: 2
   inheritWeaponVelocity: 0
-  damage: 280
+  damage: 300
   areaOfDamage: {fileID: 4710839003212094911}
   radiusColor: {r: 0, g: 1, b: 1, a: 0.49803922}
 --- !u!114 &4710839003212094911
@@ -317,7 +317,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damage:
     min: 70
-    max: 450
+    max: 500
   radius:
     min: 0.01
     max: 0.15

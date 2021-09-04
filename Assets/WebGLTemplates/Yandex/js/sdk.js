@@ -145,6 +145,7 @@ function getTableNameByIndex(index) {
     "table4time",
     "table5time",
     "table6time",
+    "table7time",
 
 
   ];

@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Id: weapon_3
   Name: "\u0421\u0443\u043F\u0435\u0440 \u0431\u043B\u0430\u0441\u0442\u0435\u0440"
-  Price: 500
+  Price: 125
   Sprite: {fileID: 21300000, guid: 18d4b3d6dea5c964b99774c54e8814ca, type: 3}
   Prefab: {fileID: 4003751861191235102, guid: 8e398ff066b33084dab4d109464cc117, type: 3}

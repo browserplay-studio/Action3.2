@@ -2316,7 +2316,7 @@ Material:
     - _Cutoff: 0.471
     - _SquashAmount: 1
     m_Colors:
-    - _Color: {r: 0.754717, g: 0.4022784, b: 0.4022784, a: 1}
+    - _Color: {r: 0.2264151, g: 0.1740833, b: 0.1740833, a: 1}
     - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
@@ -2535,7 +2535,7 @@ Material:
     - _SquashAmount: 1
     - _TranslucencyViewDependency: 0
     m_Colors:
-    - _Color: {r: 0, g: 1, b: 0.024193525, a: 1}
-    - _TranslucencyColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.27737212, g: 1, b: 0, a: 1}
+    - _TranslucencyColor: {r: 1, g: 0, b: 0.9254904, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
